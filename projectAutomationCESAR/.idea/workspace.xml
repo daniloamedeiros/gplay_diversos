@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbc096b2-1732-4995-97ba-0a062317b617" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1accpUJ8cVTVirZHfBpYsVvAPPL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Evidência de resultado de execução" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Danilo Medeiros\PycharmProjects\projectAutomationCESAR" />
+      <recent name="C:\Users\Danilo Medeiros\PycharmProjects\projectAutomationCESAR\descartar" />
+      <recent name="C:\Users\Danilo Medeiros\PycharmProjects\projectAutomationCESAR\features" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Danilo Medeiros\PycharmProjects\projectAutomationCESAR\Evidência de resultado de execução" />
+      <recent name="C:\Users\Danilo Medeiros\PycharmProjects\projectAutomationCESAR" />
+      <recent name="C:\Python38\Scripts" />
+      <recent name="C:\Users\Danilo Medeiros\PycharmProjects\projectAutomationCESAR\config" />
+      <recent name="C:\Users\Danilo Medeiros\PycharmProjects\projectAutomationCESAR\features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lixo">
+    <configuration name="lixo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projectAutomationCESAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Danilo Medeiros\PycharmProjects\projectAutomationCESAR\descartar\lixo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_web1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projectAutomationCESAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Danilo Medeiros\PycharmProjects\projectAutomationCESAR\test_web1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projectAutomationCESAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Danilo Medeiros\PycharmProjects\projectAutomationCESAR\descartar\teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projectAutomationCESAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Danilo Medeiros\PycharmProjects\projectAutomationCESAR\descartar\teste2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lixo" />
+        <item itemvalue="Python.test_web1" />
+        <item itemvalue="Python.teste2" />
+        <item itemvalue="Python.teste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbc096b2-1732-4995-97ba-0a062317b617" name="Default Changelist" comment="" />
+      <created>1587038505110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587038505110</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="76" key="#Inspections" timestamp="1587038798308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="76" key="#Inspections/1920.0.1366.718/0.0.1536.824@0.0.1536.824" timestamp="1587038798308" />
+    <state x="521" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587040613352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="220" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1366.718/0.0.1536.824@0.0.1536.824" timestamp="1587040613352" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587473111488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/1920.0.1366.718/0.0.1536.824@0.0.1536.824" timestamp="1587473111488" />
+    <state width="1500" height="239" key="GridCell.Tab.0.bottom" timestamp="1587577358348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587137075760" />
+    <state width="1500" height="239" key="GridCell.Tab.0.bottom/1920.0.1366.718/0.0.1536.824@0.0.1536.824" timestamp="1587577358348" />
+    <state width="1500" height="239" key="GridCell.Tab.0.center" timestamp="1587577358346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587137075760" />
+    <state width="1500" height="239" key="GridCell.Tab.0.center/1920.0.1366.718/0.0.1536.824@0.0.1536.824" timestamp="1587577358346" />
+    <state width="1500" height="239" key="GridCell.Tab.0.left" timestamp="1587577358342">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587137075759" />
+    <state width="1500" height="239" key="GridCell.Tab.0.left/1920.0.1366.718/0.0.1536.824@0.0.1536.824" timestamp="1587577358342" />
+    <state width="1500" height="239" key="GridCell.Tab.0.right" timestamp="1587577358346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587137075760" />
+    <state width="1500" height="239" key="GridCell.Tab.0.right/1920.0.1366.718/0.0.1536.824@0.0.1536.824" timestamp="1587577358346" />
+  </component>
+</project>
